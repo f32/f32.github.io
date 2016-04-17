@@ -1,3 +1,1 @@
-# f32.github.io
-
-initial github pages
+# 01-responsive-nets
